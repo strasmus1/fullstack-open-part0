@@ -17,6 +17,6 @@
     
     browser->>+server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
     activate server
-    server-->>-browser: [{ "content": "hi", "date": "2023-01-23T21:40:14.033Z" }, ... ]
+    server-->>-browser: [{ content: "yolo!", date: "2026-03-10T13:34:27.029Z" }, ... ]
     deactivate server
  ```
