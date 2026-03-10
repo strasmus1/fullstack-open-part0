@@ -1,2 +1,2 @@
 # fullstack-open-part0
-Full stack open 2023 course part0 exercises
+Full stack open course part0 exercises
